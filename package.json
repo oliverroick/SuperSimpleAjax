@@ -1,0 +1,21 @@
+{
+  "name": "SuperSimpleAjax",
+  "author": "Oliver Roick",
+  "version": "1.0.0",
+  "description": "Simple lirary to do AJAX",
+  "keywords": [
+    "Events"
+  ],
+  "license": "MIT",
+  "repository": "git://github.com/oliverroick/SuperSimpleAjax",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "grunt": "^0.4.5",
+    "grunt-mocha": "^0.4.12",
+    "mocha": "^2.2.1"
+  },
+  "scripts": {
+      "test": "grunt test",
+  }
+}
